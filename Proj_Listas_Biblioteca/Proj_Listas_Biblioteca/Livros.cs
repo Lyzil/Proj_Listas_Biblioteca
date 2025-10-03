@@ -15,14 +15,17 @@ namespace Proj_Listas_Biblioteca
             this.acervo = livroLista;
         }
         public Livros() : this(new List<Livro>()) { }
-        public void adicionar(Livro livro) 
+        public void adicionar(Livro livro)
         {
             if (!acervo.Contains(livro))
             {
                 acervo.Add(livro);
                 Console.WriteLine("Adicionado com sucesso!");
             }
-            Console.WriteLine("Falha ao adicionar!");
+            else
+            {
+                Console.WriteLine("Falha ao adicionar!");
+            }
         }
         public Livro pesquisar(Livro livro)
         {

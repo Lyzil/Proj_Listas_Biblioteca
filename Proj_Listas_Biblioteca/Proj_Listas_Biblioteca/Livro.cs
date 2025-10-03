@@ -33,10 +33,15 @@ namespace Proj_Listas_Biblioteca
         {
             Isbn = isbn;
         }
+        public Livro() : this(-1, "", "", "", new List<Exemplar>()){}
         public void adicionarExemplar(Exemplar exemplar) 
         {
             if (!exemplares.Contains(exemplar))
+            {
                 exemplares.Add(exemplar);
+                Console.WriteLine("Adicionado com sucesso");
+            }
+            else { Console.WriteLine("Falha ao adicionar"); }
         }
         public int qtdeExemplares() { return exemplares.Count; }
         public int qtdeDisponiveis() 

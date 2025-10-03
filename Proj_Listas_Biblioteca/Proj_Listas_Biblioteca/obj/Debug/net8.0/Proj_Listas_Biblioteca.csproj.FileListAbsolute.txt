@@ -1,0 +1,14 @@
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\Proj_Listas_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\Proj_Listas_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\Proj_Listas_Biblioteca.AssemblyInfo.cs
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\Proj_Listas_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\bin\Debug\net8.0\Proj_Listas_Biblioteca.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\bin\Debug\net8.0\Proj_Listas_Biblioteca.deps.json
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\bin\Debug\net8.0\Proj_Listas_Biblioteca.runtimeconfig.json
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\bin\Debug\net8.0\Proj_Listas_Biblioteca.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\bin\Debug\net8.0\Proj_Listas_Biblioteca.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\Proj_Listas_Biblioteca.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\refint\Proj_Listas_Biblioteca.dll
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\Proj_Listas_Biblioteca.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\Proj_Listas_Biblioteca.genruntimeconfig.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Listas_Biblioteca\Proj_Listas_Biblioteca\obj\Debug\net8.0\ref\Proj_Listas_Biblioteca.dll
