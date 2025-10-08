@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Proj_Listas_Biblioteca;
 
-namespace Proj_Listas_Agenda
+namespace Proj_Listas_Biblioteca
 {
     internal class Program
     {
@@ -260,4 +260,5 @@ namespace Proj_Listas_Agenda
             } while (opcao != 0);
         }
     }
+
 }
